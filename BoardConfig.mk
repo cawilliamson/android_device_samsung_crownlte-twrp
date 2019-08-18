@@ -24,7 +24,7 @@ BOARD_SEPOLICY_VERS := 28.0
 # Kernel
 TARGET_KERNEL_ARCH := arm64
 TARGET_KERNEL_HEADER_ARCH := arm64
-TARGET_KERNEL_SOURCE := kernel/samsung/universal8910-crown
+TARGET_KERNEL_SOURCE := kernel/samsung/universal9810-crown
 TARGET_KERNEL_CONFIG := exynos9810-crownlte_defconfig
 
 # Build Recovery & DTB
